@@ -1,0 +1,15 @@
+{
+  "name": "discordactivity",
+  "version": "1.0.0",
+  "description": "With this bot you can play activities, in Discord, with friends in a voice chat.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mubble",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slashCommands": [
+    {
+      "name": "activity",
+      "description": "Play the given activity in vc.",
+      "options": [
+        {
+          "type": "STRING",
+          "name": "game",
+          "description": "The game you want to play.",
+          "required": true,
+          "choices": [
+            {
+              "name": "poker",
+              "value": "poker"
+            },
+            {
+              "name": "betrayal",
+              "value": "betrayal"
+            },
+            {
+              "name": "youtube",
+              "value": "youtube"
+            },
+            {
+              "name": "fishington",
+              "value": "fishington"
+            },
+            {
+              "name": "chess",
+              "value": "chess"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
