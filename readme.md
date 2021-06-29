@@ -75,3 +75,4 @@ After pressing enter you should leave this window open, as long as the window is
 
 ### 6. Using the bot
 I used Discord's new integrated command feature. So in the text chat you should just be able to type `/activity` and extra options will appear. It should be intuitive as is.
+Do know that when the bot sends an invite, Discord will say that it has expired. It will still work! Just press the hyperlink instead of the Play button.
